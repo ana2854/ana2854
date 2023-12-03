@@ -7,9 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=697BF7&random=false&width=435&lines=Bienvenue+sur+ma+page+GitHub)](https://git.io/typing-svg)
 
 
-- 🔭 Je travaille actuellement sur l'optimisation d'un projet intranet existant (amélioration de la sécurité et l'expansion des fonctionnalités) en utilisant JavaScript et React.
-- 👯 Intéressée par des collaborations sur des projets innovants
-- 📚 En parallèle, je débute l'apprentissage de Linux
+- 🔭 Je travaille actuellement sur l'optimisation d'un projet intranet existant (amélioration de la sécurité et expansion des fonctionnalités) en utilisant JavaScript et React.
+- 👯 Intéressée par des collaborations sur des projets innovants.
+- 📚 En parallèle, je débute l'apprentissage de Linux.
 
 ### Développement frontend 
 
