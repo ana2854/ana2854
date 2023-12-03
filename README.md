@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=697BF7&random=false&width=435&lines=Bienvenue+sur+ma+page+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=697BF7&random=false&width=435&lines=Bienvenue+sur+ma+page+GitHub)](https://git.io/typing-svg)
 
 
 - 🔭 Je travaille actuellement sur l'optimisation d'un projet intranet existant (amélioration de la sécurité et l'expansion des fonctionnalités) en utilisant JavaScript et React.
